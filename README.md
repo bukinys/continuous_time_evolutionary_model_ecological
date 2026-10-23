@@ -6,7 +6,9 @@ speciation_model_eng.py - source code, with comments in English, for a model alg
 
 speciation_model_rus.py - source code, with comments in Russian, for a model algorithm that uses Euler's method with refinement (predictor-corrector) to integrate the system of Kolmogorov equations for state probabilities.
 
+
 Python version 3.3.6 or later is required.
+
 
 To run the program, you need to install Python modules:
 
@@ -18,6 +20,8 @@ time
 pandas
 
 
+
+
 Running calculations from the command line:
 
 python3 speciation_model_eng.py
@@ -25,5 +29,7 @@ python3 speciation_model_eng.py
 or
 
 python3 speciation_model_rus.py
+
+
 
 To set the model parameters, see the comments within the source code.
