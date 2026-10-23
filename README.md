@@ -3,3 +3,7 @@ This repository contains an algorithm, implemented in Python, that models the ev
 
 
 speciation_model_eng.py - source code, with comments in English, for a model algorithm that uses the modified Euler method (predictor-corrector) to integrate the Kolmogorov system of equations for state probabilities.
+
+speciation_model_rus.py - source code, with comments in Russian, for a model algorithm that uses Euler's method with refinement (predictor-corrector) to integrate the system of Kolmogorov equations for state probabilities.
+
+
